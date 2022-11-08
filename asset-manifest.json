@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/users_event_list/static/css/main.cd5d95a0.css",
+    "main.js": "/users_event_list/static/js/main.e3fdd460.js",
+    "index.html": "/users_event_list/index.html",
+    "main.cd5d95a0.css.map": "/users_event_list/static/css/main.cd5d95a0.css.map",
+    "main.e3fdd460.js.map": "/users_event_list/static/js/main.e3fdd460.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.e3fdd460.js"
+  ]
+}
